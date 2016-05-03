@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-in-practice",
+  "version": "0.0.1",
+  "description": "nodejs practice codebase",
+  "main": "index.js",
+  "dependencies": {
+    "argv": "~0.0.2",
+    "async": "~2.0.0-rc.3",
+    "events": "~1.1.0",
+    "express": "~4.13.4",
+    "fs": "~0.0.2",
+    "worker": "~0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jzhangkun/nodejs-in-practice.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "jzhangkun",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jzhangkun/nodejs-in-practice/issues"
+  }
+}
