@@ -7,6 +7,6 @@ emitter.on('name', function(first, last){
     console.log(first + ', ' + last);
 });
 
-console.log('emit as follows...
+console.log('emit as follows...');
 emitter.emit('name', 'tj', 'holowaychuk');
 emitter.emit('name', 'simon', 'holowaychuk');
