@@ -1,6 +1,6 @@
 // Types.js - Constructors used behind the scenes
 
-// A constructor for defineing new cars
+// A constructor for defining new cars
 function Car( options ) {
     this.doors = options.doors || 4;
     this.state = options.state || "barnd new";
