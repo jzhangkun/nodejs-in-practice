@@ -9,3 +9,5 @@ console.log(exports);
 
 console.log({ foo: 'bar' });
 console.dir({ foo: 'bar' });
+
+console.log("test");
